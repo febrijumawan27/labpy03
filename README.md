@@ -14,7 +14,7 @@
 
 **Penjelasan Latihan 2**
 ---
-*1 Input program seperti dibawah ini :*
+*1. Input program seperti dibawah ini :*
 
 ![lat 2 program](https://user-images.githubusercontent.com/57055098/68382800-0b4c8b80-0187-11ea-95e2-91a74747634e.png)
 
