@@ -42,6 +42,8 @@
 
 ![Screenshot (65)](https://user-images.githubusercontent.com/57055098/68383890-10123f00-0189-11ea-92eb-577ff3935472.png)
 
-***PRAKTIKUM 3 BAHASA PEMROGRAAMAN***
+***PRAKTIKUM 3 BAHASA PEMROGRAMAN***
+---
 
 ***DOSEN AGUNG NUGROHO, S.Kom., M.Kom.***
+---
