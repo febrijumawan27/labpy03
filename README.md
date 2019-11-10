@@ -4,13 +4,15 @@
 ---
 *1. Input Program seperti dibawah ini :*
 
-![Screenshot (66)](https://user-images.githubusercontent.com/57055098/68382337-1521bf00-0186-11ea-8a76-a7841e5cdb4b.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/57055098/68539991-f3ab1800-03bd-11ea-8ee2-77e0a4b40d5d.png)
 
-*2. Dengan menggunakan fungsi random. Yakni, fungsi yang akan menampilkan angka secara acak. Fungsi random sudah otomatis ditampilkan.*
+*2. Dengan menggunakan fungsi random.uniform(0, 0.5). Yakni, fungsi yang akan menampilkan angka secara acak (angka dibawah 0.5). Fungsi random sudah otomatis ditampilkan.*
 
-*3. Ketika anda sudah menjalankan program tersebut, maka anda akan diminta menasukan jumlah data yang anda inginkan dan otomatis akan langsung muncul data nilai random sesuai jumlah yang anda inginkan. Berikut hasilnya :*
+*3. i+=1 untuk mengawali data dari data ke 1.*
 
-![lat 1 hasil](https://user-images.githubusercontent.com/57055098/68382667-c58fc300-0186-11ea-9c1b-ef589720200a.png)
+*4. Ketika anda sudah menjalankan program tersebut, maka anda akan diminta menasukan jumlah data yang anda inginkan dan otomatis akan langsung muncul data nilai random sesuai jumlah yang anda inginkan. Berikut hasilnya :*
+
+![Screenshot (68)](https://user-images.githubusercontent.com/57055098/68539994-fd348000-03bd-11ea-9191-340ba5e63601.png)
 
 **Penjelasan Latihan 2**
 ---
