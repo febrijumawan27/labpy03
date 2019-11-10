@@ -34,7 +34,7 @@
 ![Screenshot (64)](https://user-images.githubusercontent.com/57055098/68383832-fa9d1500-0188-11ea-97ab-4a5ef696639b.png)
 
 
-*1. Modal awal pengusaha sebesar 100000000*
+*1. Modal awal pengusaha sebesar 100000000. Bulan pertama dan kedua belum mendapat laba, bulan ketiga mendapaktan laba 1%, bulan kelima 5%, pada bulan kedelapan laba turun 2% sehingga laba menjadi 3%. Bisa dilihat pada program diatas.*
 
 *2. Untuk menghitung laba perbulan maka harus diinputkan terlebih dahulu besarnya presentase keuntungan perbulan.*
 
